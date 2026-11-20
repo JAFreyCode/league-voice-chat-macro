@@ -1,0 +1,10 @@
+.venv/
+__pycache__/
+*.pyc
+
+# User state, written by the app
+config.json
+gui-error.log
+
+# Third-party model downloads - see "Installing from a fresh clone" in README
+models/
